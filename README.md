@@ -11,8 +11,4 @@
         /____/                                         
 ````
 
-NRpaint 1 is a freeware drawing program made in pygame
-
-if you don't have the SimSun font change line 89
-
-idk what else to write here
+a drawing program.
